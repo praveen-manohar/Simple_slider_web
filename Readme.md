@@ -42,4 +42,4 @@ This template is licensed under the [MIT License](LICENSE). You are free to use,
 
 ## Author
 
-Praveen Manoharan from ZerrowTech - [ZerrowTech](https://zerrowtech.com)
+[Praveen Manoharan](https://zerrowtech.com/praveen-manoharan/) from ZerrowTech - [ZerrowTech](https://zerrowtech.com)
